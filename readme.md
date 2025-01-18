@@ -21,3 +21,13 @@ link to copilot [link] https://github.com/settings/copilot
 
 * use ai in terminal: ex1.move json file to subfolder bla, ex2. delete js files in folder. 
 
+* Generate unit test: ex. generate unit tests for all endpoints
+
+* /explain. Explain selected code snipet.
+
+* /doc. ex1./doc @selection to generate comments doc for the selected code. ex2. /doc #filename
+
+* /fix . ask copilot to complete inline code.
+
+* inline: make dob as argument in function x
+
