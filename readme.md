@@ -17,7 +17,7 @@ link to copilot [link] https://github.com/settings/copilot
 
 * [ctrl + shift + i]. to open ai chat
 
-* Generate project structure: ex.generate nodejs project tageting node 14 framework
+* @workspace /new Generate project structure: ex.generate nodejs project tageting node 14 framework
 
 * use ai in terminal: ex1.move json file to subfolder bla, ex2. delete js files in folder. 
 
@@ -31,3 +31,8 @@ link to copilot [link] https://github.com/settings/copilot
 
 * inline: make dob as argument in function x
 
+* convert. from one code language to another
+
+#### deployment prompts
+* Generate kubernetese and clusterIP for my application image path to image.My container is exposed on port 8080 but service must use port 80
+*  Generate a terraform to deploy 2 linux vm in new VNet. VNet must provide two subnet. first one for vm and second one for relational database not included in current config.
