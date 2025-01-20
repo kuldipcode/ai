@@ -1,6 +1,8 @@
-link to github copilot [https://github.com/settings/copilot](https://) and click on start using for free
+#### Links to Github copilot and github copilot for VS Code 
+**github copilot:** [https://github.com/settings/copilot](https://) and click on start using for free
 
-### copilot for vscode https://code.visualstudio.com/docs/copilot/overview
+**copilot for vscode:** [https://code.visualstudio.com/docs/copilot/overview](https://)
+
 #### Features of github copilot 
 * **Open Prompt Box:** [ctrl + i ]:    open text box in vscode where you can enter prompts. You can go on specific line and run [ctrl + i ]: to fix error.
 
