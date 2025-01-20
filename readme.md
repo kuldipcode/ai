@@ -6,9 +6,9 @@
 #### Features of github copilot 
 * **Open Prompt Box:** [`ctrl + i `]:    open text box in vscode where you can enter prompts. You can go on specific line and run [ctrl + i ]: to fix error.
 
-* **Write Comment:** [`ctrl + enter`]: write comment in code with // and run [`ctrl + enter`]
+* **Write Comment:** [`ctrl + enter`]: write comment in code with` //` and run [`ctrl + enter`]
 
-* **Explain Code:** [`/explain`]. select code and [ctrl + i ] and enter [`/explain`] with prompt
+* **Explain Code:** [`/explain`]. select code and [`ctrl + i `] and enter [`/explain`] with prompt
 
 * **Autocompletion:** Write comment `//` as promt and wait for suggestion.
 
@@ -25,7 +25,7 @@
 
 * **Explain Selected Code:**`/explain.` Explain selected code snipet.
 
-* **Generate Documentation:**`/doc`. ex1.`/doc @selection` to generate comments doc for the selected code. ex2. /doc #filename
+* **Generate Documentation:**`/doc`. ex1.`/doc @selection` to generate comments doc for the selected code. ex2. `/doc #filename`
 
 * **Fix Inline Code:**`/fix` . ask copilot to complete inline code. ex. make dob as argument in function x
 
