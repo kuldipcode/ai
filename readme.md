@@ -1,9 +1,6 @@
-### Referance : https://www.youtube.com/watch?v=XxCq8G11XLs
+link to github copilot [https://github.com/settings/copilot](https://) and click on start using for free
 
-link to copilot [link] https://github.com/settings/copilot 
-#### click on start using for free
-
-## copilot for vscode https://code.visualstudio.com/docs/copilot/overview
+### copilot for vscode https://code.visualstudio.com/docs/copilot/overview
 #### Features of github copilot 
 * **Open Prompt Box:** [ctrl + i ]:    open text box in vscode where you can enter prompts. You can go on specific line and run [ctrl + i ]: to fix error.
 
@@ -15,7 +12,7 @@ link to copilot [link] https://github.com/settings/copilot
 
 * **Generate file:** Ask copilot to generate json file with object and attribute.
 
-* **Open AI Chat:**[ctrl + shift + i]. to open ai chat
+* **Open AI Chat:** [ctrl + shift + i]. to open ai chat
 
 * **Generate Project Structure:** @workspace /new Generate project structure: ex.generate nodejs project tageting node 14 framework
 
@@ -35,3 +32,5 @@ link to copilot [link] https://github.com/settings/copilot
 **Deployment Prompts:**
 * Generate kubernetese and clusterIP for my application image path to image.My container is exposed on port 8080 but service must use port 80
 *  Generate a terraform to deploy 2 linux vm in new VNet. VNet must provide two subnet. first one for vm and second one for relational database not included in current config.
+
+* Referance : [https://www.youtube.com/watch?v=XxCq8G11XLs](https://)
