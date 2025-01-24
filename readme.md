@@ -8,3 +8,6 @@ Following are useful links
 
 * https://ai.azure.com/
     Azure ai foundry for ai services.
+    
+* https://ml.azure.com/ 
+    Machine learning studio where you can create compute instance and run python code in Jupyter Notebook.
