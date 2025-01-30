@@ -39,3 +39,13 @@ https://admin.microsoft.com/adminportal/home?#/subscriptions
 
 * Artifact registry
 https://mcr.microsoft.com
+
+* Custom vision url for direct playground
+
+https://www.customvision.ai/  
+
+https://www.videoindexer.ai/  
+
+https://documentintelligence.ai.azure.com/
+
+* Azure AI content safety studio
