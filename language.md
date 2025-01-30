@@ -1,0 +1,1 @@
+* text analytics project https://pypi.org/project/azure-ai-textanalytics/
